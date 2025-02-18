@@ -1,0 +1,36 @@
+body{
+   font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 20px;
+    background-color: aquamarine;
+   
+}
+
+table{
+   width: 100%;
+   border-collapse: collapse;
+   background-color: blueviolet;
+   margin-top: 20px;
+
+
+}
+
+
+table, th, td{
+  border: 1px solid black;
+  text-align: center;
+padding: 20px;
+
+
+
+}
+
+
+th{
+  background-color: darkslategray;
+  color: white;
+
+
+
+
+}
